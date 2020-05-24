@@ -6,7 +6,7 @@
 
 ## GOAL: Build Deployable Wildfire Smoke Detection Models for HPWREN Cameras
 
-## REGISTER [HERE](https://forms.gle/Rtedxr1rT9HHJogm6) 
+## REGISTER [HERE](https://forms.gle/wM7zRPFMUQptpygX9) 
 
 **Lets Stop Wildfires Hackathon 2.0** is a reboot of the last successful [wildfires hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) organized by [AI For Mankind](https://aiformankind.org). 
 

@@ -7,7 +7,6 @@
 ## GOAL: Build Deployable Wildfire Smoke Detection Models for HPWREN Cameras
 
 ## REGISTER [HERE](https://forms.gle/Rtedxr1rT9HHJogm6) 
-### Last day to register is Aug 2, 2020.
 
 **Lets Stop Wildfires Hackathon 2.0** is a reboot of the last successful [wildfires hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) organized by [AI For Mankind](https://aiformankind.org). 
 
@@ -52,7 +51,6 @@ Our [previous hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon)
 
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
 
-
 #### Contact Us
 If you have any questions, please feel free to
 
@@ -61,6 +59,8 @@ Email us at [ai.for.mankind@gmail.com](ai.for.mankind@gmail.com) or
 Join us on **Slack** at [https://tinyurl.com/vepdjpf](https://tinyurl.com/vepdjpf)
 
 By participating in this hackathon, participants agree to be bound by all of the terms and conditions as set out below.
+
+**You have to register [HERE](https://forms.gle/Rtedxr1rT9HHJogm6) to participate in the hackathon. Last day to register is Aug 2, 2020.**
 
 #### Eligibility
 

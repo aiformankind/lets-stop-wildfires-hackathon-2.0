@@ -1,6 +1,11 @@
 # lets-stop-wildfires-hackathon-2.0
 
-Lets Stop Wildfires Hackathon 2.0 is a reboot of the last successful [wildfires hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) organized by [AI For Mankind](https://aiformankind.org). The theme of this hackathon is build deployable wildfire smoke detection models for HPWREN mountain top cameras. 
+Lets Stop Wildfires Hackathon 2.0 is a reboot of the last successful [wildfires hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) organized by [AI For Mankind](https://aiformankind.org). The main theme of this hackathon is build deployable wildfire smoke detection models for HPWREN mountain top cameras. 
+
+In the last Lets Stop Wildfires Hackathon which was launched in 2019, we focused on classification of smoke on the whole image or gridded image. In this hackathon, we want to formulate the problem as smoke detection and segmentation. We present the following challenges for our participants to solve.
+
+1. Detect Wildfire Smoke using Bounding Boxes
+2. Detect Wildfire Smoke using Segmentation Masks
 
 We believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires. 
 
@@ -8,9 +13,9 @@ Everything built during the hackathon will remain as open source with The MIT li
 
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
 
-![Participants](discuss2.jpg)
+![Participants discussion in last hackathon](discuss1.jpg)
 
-![Presentation](presentation1.jpg)
+![Participants discussion in last hackathon](discuss2.jpg)
 
 **To participate in the hackathon: Register [here](https://forms.gle/Rtedxr1rT9HHJogm6)**
 

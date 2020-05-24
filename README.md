@@ -7,17 +7,30 @@ In the last Lets Stop Wildfires Hackathon which was launched in 2019, we focused
 1. Detect Wildfire Smoke using Bounding Boxes
 2. Detect Wildfire Smoke using Segmentation Masks
 
+Do you know there are many cameras installed around mountaintop in California. These are the HPWREN and AlertWildfire cameras.
+
+- [HPWREN Cameras](http://hpwren.ucsd.edu/cameras/I/wc-e-mobo-c.html)
+
+- [AlertWildfire Cameras](http://www.alertwildfire.org/southeastbay/index.html?v=518dd6a)
+
+Can you build a wildfire smoke detector for these cameras ? 
+
+![Image from one of HPWREN camera](images/hpwren_sample2.jpg) ![Image from one of HPWREN camera](images/hpwren_sample1.jpg)
+
 We believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires. 
 
 Everything built during the hackathon will remain as open source with The MIT license. Special thanks to [HPWREN](http://hpwren.ucsd.edu/) to provide access to HPWREN camera images.
 
-**Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
-
-![Participants in discussion in last hackathon](images/discuss1.jpg) ![Participants in discussion in last hackathon](images/discuss2.jpg)
-
 **To participate in the hackathon: Register [here](https://forms.gle/Rtedxr1rT9HHJogm6)**
 
 Last day to register is Aug 2, 2020.
+
+Our [previous hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) was a success. Participants engaged in discussions shown in pics below.
+
+![Participants in discussion in last hackathon](images/discuss1.jpg) ![Participants in discussion in last hackathon](images/discuss2.jpg)
+
+
+**Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
 
 #### Contact Us
 If you have any questions, please feel free to
@@ -67,28 +80,6 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 1. [The MIT License](https://opensource.org/licenses/MIT)
 2. [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)
 
-#### [Wildfire Smoke Detection Challenge](wildfire_smoke_challenge.md)
-Do you know there are more than 250 cameras installed around mountaintop in California. These are the AlertWildfire camera system. Another camera system is called HPWREN cameras.
-
-- [AlertWildfire Cameras](http://www.alertwildfire.org/southeastbay/index.html?v=518dd6a)
-
-- [HPWREN Cameras](http://hpwren.ucsd.edu/cameras/I/wc-e-mobo-c.html)
-
-Can you build a wildfire smoke detector for these cameras ? 
-
-![Image from one of HPWREN camera](images/mountain_top.png)   
-Image taken by HPWREN camera.
-
-
-![Image from one of AlertWildfire camera](images/sunrise_view.png)  
-Image taken by AlertWildfire camera.
-
-![Mountain with fog image from one of AlertWildfire camera](images/fog_1.png)   
-Mountain with fog image taken by AlertWildfire camera.
-
-
-![Mountain with fog image from one of AlertWildfire camera](images/fog_2.png)  
-Mountain with fog image taken by AlertWildfire camera.
 
 
 #### Mentors for Hackathon

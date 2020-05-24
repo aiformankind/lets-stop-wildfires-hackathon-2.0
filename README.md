@@ -1,5 +1,7 @@
 # lets-stop-wildfires-hackathon-2.0
 
+![wildfire Smoke Detector](images/image1BoundingBoxAfter560Steps.png)
+
 Lets Stop Wildfires Hackathon 2.0 is a reboot of the last successful [wildfires hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) organized by [AI For Mankind](https://aiformankind.org). The main theme of this hackathon is build deployable wildfire smoke detection models for HPWREN mountain top cameras. 
 
 In the last Lets Stop Wildfires Hackathon which was launched in 2019, we focused on classification of smoke on the whole image or gridded image. In this hackathon, we want to formulate the problem as smoke detection and segmentation. We present the following challenges for our participants to solve. Special thanks to [HPWREN](http://hpwren.ucsd.edu/) to provide access to HPWREN camera images.
@@ -13,7 +15,9 @@ Do you know there are many cameras installed around mountaintop in California. T
 
 - [AlertWildfire Cameras](http://www.alertwildfire.org/southeastbay/index.html?v=518dd6a)
 
-Can you build a wildfire smoke detector for these HPWREN cameras ? See some sample HPWREN pictures below.
+Can your wildfire smoke detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ? 
+
+See some sample HPWREN pictures below.
 
 ![Image from one of HPWREN camera](images/hpwren_sample2.jpg) ![Image from one of HPWREN camera](images/hpwren_sample1.jpg)
 

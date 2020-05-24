@@ -13,9 +13,7 @@ Everything built during the hackathon will remain as open source with The MIT li
 
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
 
-![Participants discussion in last hackathon](discuss1.jpg)
-
-![Participants discussion in last hackathon](discuss2.jpg)
+![Participants in discussion in last hackathon](images/discuss1.jpg) ![Participants in discussion in last hackathon](images/discuss2.jpg)
 
 **To participate in the hackathon: Register [here](https://forms.gle/Rtedxr1rT9HHJogm6)**
 

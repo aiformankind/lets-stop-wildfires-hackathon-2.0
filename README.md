@@ -1,8 +1,15 @@
-# lets-stop-wildfires-hackathon-2.0
+# Lets Stop Wildfires Hackathon 2.0
 
 ![wildfire Smoke Detector](images/image1BoundingBoxAfter560Steps.png)
 
-Lets Stop Wildfires Hackathon 2.0 is a reboot of the last successful [wildfires hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) organized by [AI For Mankind](https://aiformankind.org). The main theme of this hackathon is build deployable wildfire smoke detection models for HPWREN mountain top cameras. 
+## OFFICIAL LAUNCH DATE: JUNE 20, 2020
+
+## GOAL: Build Deployable Wildfire Smoke Detection Models for HPWREN Cameras
+
+## REGISTER [HERE](https://forms.gle/Rtedxr1rT9HHJogm6) 
+### Last day to register is Aug 2, 2020.
+
+**Lets Stop Wildfires Hackathon 2.0** is a reboot of the last successful [wildfires hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) organized by [AI For Mankind](https://aiformankind.org). 
 
 In the last Lets Stop Wildfires Hackathon which was launched in 2019, we focused on classification of smoke on the whole image or gridded image. In this hackathon, we want to formulate the problem as smoke detection and segmentation. We present the following challenges for our participants to solve. Special thanks to [HPWREN](http://hpwren.ucsd.edu/) to provide access to HPWREN camera images.
 
@@ -17,6 +24,19 @@ Do you know there are many cameras installed around mountaintop in California. T
 
 Can your wildfire smoke detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ? 
 
+### GET STARTED 
+While waiting for the official release of annotated dataset, you can checkout our quick start repo for building a wildfire smoke detector. It comes with a docker image and sample dataset to get you started.
+
+1. [Wildfire Smoke Detector](https://github.com/aiformankind/wildfire-smoke-detection-camera)
+
+### Other Useful Resources
+1. [Google Colaboratory to develop deep learning application on free GPU](https://colab.research.google.com)
+
+2. [Wildfire Smoke Classifier using Google Colab](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1A_WildfireSmokeImageClassifierForDemo.ipynb)
+
+3. [FUEGO firecam repo](https://github.com/fuego-dev/firecam)
+
+
 See some sample HPWREN pictures below.
 
 ![Image from one of HPWREN camera](images/hpwren_sample2.jpg) ![Image from one of HPWREN camera](images/hpwren_sample1.jpg)
@@ -25,16 +45,13 @@ We believe that open sharing and collaboration are important in accelerating inn
 
 Everything built during the hackathon will remain as open source with The MIT license. 
 
-**To participate in the hackathon: Register [here](https://forms.gle/Rtedxr1rT9HHJogm6)**
-
-Last day to register is Aug 2, 2020.
-
 Our [previous hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) was a success. Participants engaged in discussions shown in pics below.
 
 ![Participants in discussion in last hackathon](images/discuss1.jpg) ![Participants in discussion in last hackathon](images/discuss2.jpg)
 
 
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
+
 
 #### Contact Us
 If you have any questions, please feel free to
@@ -88,24 +105,14 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 
 #### Mentors for Hackathon
 
-#### Quick Start
-Checkout the following resources to get you started
-
-1. HPWREN Camera [Datasets](https://github.com/aiformankind/wildfire-smoke-dataset)
-
-2. [Google Colaboratory to develop deep learning application on free GPU](https://colab.research.google.com)
-
-3. Tensorflow based [Wildfire Smoke Classifier](https://github.com/aiformankind/wildfire-smoke-classifier-camera)
-
-4. Tensorflow based [Wildfire Smoke Detector](https://github.com/aiformankind/wildfire-smoke-detection-camera)
-
-5. [FUEGO firecam repo](https://github.com/fuego-dev/firecam)
-
 #### Collaborators
+HPWREN
 
 #### Sponsors
+Stay Tuned
 
 #### Prize Money
+Stay Tuned
 
 #### Wildfire Resources
 1. [FUEGO Wildfire Detection Slides by Kinshuk Govil](https://tinyurl.com/rbrn4oq)

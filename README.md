@@ -1,6 +1,6 @@
 # lets-stop-wildfires-hackathon-2.0
 
-This hackathon is conducted by AI For Mankind. The goal is build deployable wildfire smoke detection models for HPWREN mountain top cameras. 
+Lets Stop Wildfires Hackathon 2.0 is a reboot of the last successful [wildfires hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) organized by [AI For Mankind](https://aiformankind.org). The theme of this hackathon is build deployable wildfire smoke detection models for HPWREN mountain top cameras. 
 
 We believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires. 
 
@@ -132,6 +132,6 @@ Checkout the following resources to get you started
 2. [SpotTune: Transfer Learning through Adaptive Fine-tuning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf)
 3. [Taskonomy: Disentangling Task Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)
 
-#### Events
-1. 
+#### Upcoming Events
+
 

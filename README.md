@@ -34,11 +34,11 @@ While waiting for the official release of annotated dataset, you can checkout ou
 
 
 ### Other Useful Resources
-1. [Google Colaboratory to develop deep learning application on free GPU](https://colab.research.google.com)
+1. [Colab Notebook for developing deep learning application on free GPU](https://colab.research.google.com)
+2. [Colab Notebook for Image Segmentation](https://keras.io/examples/vision/oxford_pets_image_segmentation/)
+3. [Wildfire Smoke Classifier using Google Colab](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1A_WildfireSmokeImageClassifierForDemo.ipynb)
 
-2. [Wildfire Smoke Classifier using Google Colab](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1A_WildfireSmokeImageClassifierForDemo.ipynb)
-
-3. [FUEGO firecam repo](https://github.com/fuego-dev/firecam)
+4. [FUEGO firecam repo](https://github.com/fuego-dev/firecam)
 
 
 See some sample HPWREN pictures below. Can you detect the smoke ?

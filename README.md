@@ -22,7 +22,7 @@ Do you know there are many cameras installed around mountaintop in California. T
 
 - [AlertWildfire Cameras](http://www.alertwildfire.org/southeastbay/index.html?v=518dd6a)
 
-**Can your wildfire detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ?** 
+**Can your wildfire smoke detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ?** 
 
 ### GET STARTED 
 While waiting for the official release of annotated dataset, you can checkout our quick start repo for building a wildfire smoke detector. It comes with a docker image and sample dataset to get you started.
@@ -73,7 +73,7 @@ If you have any questions, please feel free to email us at [ai.for.mankind@gmail
 1. This hackathon is open to everyone at least 16 years old.
 
 #### Hackathon Period
-The hackathon starts on Saturday June 20, 2020 at 9AM PT and ends on Sunday Aug 23, 2020 at 11:59PM PT. 
+The hackathon starts on **Saturday June 20, 2020 at 9AM PT and ends on Sunday Aug 23, 2020 at 11:59PM PT**. 
 
 Note: Hackathon end dates are at the sole discretion of AI For Mankind and may be subject to change.
 

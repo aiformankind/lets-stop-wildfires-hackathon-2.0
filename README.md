@@ -71,7 +71,7 @@ If you have any questions, please feel free to email us at [ai.for.mankind@gmail
 
 #### Eligibility
 
-1. This hackathon is open to everyone at least 16 years old.
+1. This hackathon is open to everyone at least 18 years old. If you are in high school and would like to participate, you will be paired with another participant who will serve as a mentor.
 
 #### Hackathon Period
 The hackathon starts on **Saturday June 20, 2020 at 9AM PT and ends on Sunday Aug 23, 2020 at 11:59PM PT**. 

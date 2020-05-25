@@ -16,6 +16,7 @@ In the last Lets Stop Wildfires Hackathon which was launched in 2019, we focused
 1. Detect Wildfire Smoke using Bounding Boxes
 2. Detect Wildfire Smoke using Segmentation Masks
 3. Bonus: Detect Wildfire Smoke using Temporal Sequences.
+4. Bonus: Real Time On Device Wildfire Smoke Detector.
 
 Do you know there are many cameras installed around mountaintop in California. These are the HPWREN and AlertWildfire cameras.
 

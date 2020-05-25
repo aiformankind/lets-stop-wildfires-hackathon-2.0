@@ -1,6 +1,6 @@
 # Lets Stop Wildfires Hackathon 2.0
 
-![wildfire Smoke Detector](images/image1BoundingBoxAfter871Steps1.png) ![wildfire Smoke Detector 2](images/image2BoundingBoxAfter871Steps1.png)
+![wildfire Smoke Detector in Action](images/image2BoundingBoxAfter871Steps1.png)
 
 ## OFFICIAL LAUNCH DATE: JUNE 20, 2020
 
@@ -14,6 +14,7 @@ In the last Lets Stop Wildfires Hackathon which was launched in 2019, we focused
 
 1. Detect Wildfire Smoke using Bounding Boxes
 2. Detect Wildfire Smoke using Segmentation Masks
+3. Bonus: Detect Wildfire Smoke using Temporal Sequences.
 
 Do you know there are many cameras installed around mountaintop in California. These are the HPWREN and AlertWildfire cameras.
 
@@ -21,12 +22,15 @@ Do you know there are many cameras installed around mountaintop in California. T
 
 - [AlertWildfire Cameras](http://www.alertwildfire.org/southeastbay/index.html?v=518dd6a)
 
-Can your wildfire smoke detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ? 
+**Can your wildfire detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ?** 
 
 ### GET STARTED 
 While waiting for the official release of annotated dataset, you can checkout our quick start repo for building a wildfire smoke detector. It comes with a docker image and sample dataset to get you started.
 
 1. [Wildfire Smoke Detector](https://github.com/aiformankind/wildfire-smoke-detection-camera)
+
+<img src="images/image2BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/><img src="images/image1BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/>
+
 
 ### Other Useful Resources
 1. [Google Colaboratory to develop deep learning application on free GPU](https://colab.research.google.com)

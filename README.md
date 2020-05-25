@@ -1,6 +1,7 @@
 # Lets Stop Wildfires Hackathon 2.0
 
 ![wildfire Smoke Detector in Action](images/image2BoundingBoxAfter871Steps1.png)
+![wildfire Smoke Detector in Action](images/image1BoundingBoxAfter871Steps1.png)
 
 ## OFFICIAL LAUNCH DATE: JUNE 20, 2020
 
@@ -90,7 +91,7 @@ By participating in the hackathon, you agree to ALL of the following statements:
 
 1. You understand and acknowledge that your entry/submission in their entirety will become open source (MIT License) and made publicly available to everyone. You agree to make any code produced/submitted for the hackathon (your entry’s github repository) available under the terms of The MIT License and other created works under the terms of the CC BY-SA 4.0 licence. **Participant hereby irrevocably licenses all Work Product under the MIT License located at https://opensource.org/licenses/MIT.** "Work Product" means all ideas, concepts, proposals, materials, and all other work product of any nature whatsoever, that are created, prepared, produced, conceived, or reduced to practice by Participant solely or jointly with others during the Hackathon. Participant represents and warrants that, to the best of his or her knowledge, the Work Product is and will be Participant’s own original work and does not and will not infringe the intellectual property or proprietary rights of any third party, including, without limitation, any third party patents, copyrights or trademarks.
 
-2. You understand and acknowledge that after the submission deadline has passed, your project (github repository) that has been submitted to the hackathon cannot be deleted or made private.  Your project repository will also be featured on the AI For Mankind Let's Stop Wildfires hackathon github page after the hackathon has concluded.
+2. You understand and acknowledge that after the submission deadline has passed, your project (github repository) that has been submitted to the hackathon cannot be deleted or made private.  Your project repository will also be featured on the AI For Mankind Let's Stop Wildfires hackathon 2.0 github page after the hackathon has concluded.
 3. You understand and acknowledge that others may have developed or commissioned materials similar or identical to your entry and you waive any claims you may have resulting from any similarities to your entry.
 4. You understand that you will not receive any compensation for use of your entry.
  

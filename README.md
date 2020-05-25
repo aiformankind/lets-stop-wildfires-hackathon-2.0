@@ -1,6 +1,6 @@
 # Lets Stop Wildfires Hackathon 2.0
 
-![wildfire Smoke Detector](images/image1BoundingBoxAfter560Steps.png)
+![wildfire Smoke Detector](images/image1BoundingBoxAfter871Steps1.png) ![wildfire Smoke Detector 2](images/image2BoundingBoxAfter871Steps1.png)
 
 ## OFFICIAL LAUNCH DATE: JUNE 20, 2020
 

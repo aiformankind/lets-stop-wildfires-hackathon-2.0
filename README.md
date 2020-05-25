@@ -152,4 +152,4 @@ AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
 
 #### Upcoming Events
 
-
+[Lets Annotate Wildfire Smoke Images on Saturday, May 30 at 10 am Pacific Time](https://www.meetup.com/AI-for-Mankind/events/270718685/)

@@ -33,6 +33,14 @@ While waiting for the official release of annotated dataset, you can checkout ou
 
 <img src="images/image2BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/><img src="images/image1BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/>
 
+### DATASET
+In the above repo, you will find 744 bounding box annotated HPWREN wildfire smoke images.
+
+3292 Total Number of Images, 744 of them are annotated with bounding boxes.
+https://github.com/aiformankind/wildfire-smoke-detection-camera/tree/master/input/images
+
+PASCAL VOC Annotations
+https://github.com/aiformankind/wildfire-smoke-detection-camera/tree/master/input/annotations/xmls
 
 ### Other Useful Resources
 1. [Colab Notebook for developing deep learning application on free GPU](https://colab.research.google.com)

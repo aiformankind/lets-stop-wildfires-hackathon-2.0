@@ -54,8 +54,14 @@ See some sample HPWREN pictures below. Can you detect the smoke ?
 
 ![Image from one of HPWREN camera](images/hpwren_sample2.jpg) ![Image from one of HPWREN camera](images/hpwren_sample1.jpg)
 
-How challenging is it to detect wildfire smoke ? See the following HPWREN videos.
-1. [Far away smoke](videos/far_away_smoke.mov)
+### How Challenging to Detect Wildfire Smoke
+It is very challenging to detect these wildfire smokes. See the following HPWREN examples.
+
+#### [See this far away smoke video](videos/far_away_smoke.mov)
+
+Can you see the smoke in the following images ?
+
+<img src="images/far_away_smoke_1.png" alt="far away smoke" width="400"/><img src="images/far_away_smoke_2.png" alt="far away smoke" width="400"/>
 
 We believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires. 
 

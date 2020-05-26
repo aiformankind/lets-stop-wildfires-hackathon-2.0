@@ -46,6 +46,9 @@ See some sample HPWREN pictures below. Can you detect the smoke ?
 
 ![Image from one of HPWREN camera](images/hpwren_sample2.jpg) ![Image from one of HPWREN camera](images/hpwren_sample1.jpg)
 
+How challenging is it to detect wildfire smoke ? See the following HPWREN videos.
+1. [Far away smoke](videos/far_away_smoke.mov)
+
 We believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires. 
 
 Everything built during the hackathon will remain as open source with The MIT license. 

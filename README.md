@@ -42,6 +42,8 @@ https://github.com/aiformankind/wildfire-smoke-detection-camera/tree/master/inpu
 PASCAL VOC Annotations
 https://github.com/aiformankind/wildfire-smoke-detection-camera/tree/master/input/annotations/xmls
 
+**Note: We will release a bigger dataset on JUNE 20, 2020.**
+
 ### Other Useful Resources
 1. [Colab Notebook for developing deep learning application on free GPU](https://colab.research.google.com)
 2. [Colab Notebook for Image Segmentation](https://keras.io/examples/vision/oxford_pets_image_segmentation/)

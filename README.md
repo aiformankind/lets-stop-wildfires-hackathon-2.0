@@ -3,8 +3,6 @@
 ![wildfire Smoke Detector in Action](images/image2BoundingBoxAfter871Steps1.png)
 ![wildfire Smoke Detector in Action](images/image1BoundingBoxAfter871Steps1.png)
 
-## OFFICIAL LAUNCH DATE: JUNE 20, 2020
-
 ## GOAL: Build Deployable Wildfire Smoke Detection Models for HPWREN Cameras
 
 ## REGISTER [NOW](https://forms.gle/wM7zRPFMUQptpygX9) 
@@ -24,6 +22,10 @@ Do you know there are many cameras installed around mountaintop in California. T
 
 - [AlertWildfire Cameras](http://www.alertwildfire.org/southeastbay/index.html?v=518dd6a)
 
+We believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires. 
+
+Everything built during the hackathon will remain as open source with The MIT license. 
+
 **Can your wildfire smoke detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ?** 
 
 ### GET STARTED 
@@ -42,7 +44,7 @@ https://github.com/aiformankind/wildfire-smoke-detection-camera/tree/master/inpu
 PASCAL VOC Annotations
 https://github.com/aiformankind/wildfire-smoke-detection-camera/tree/master/input/annotations/xmls
 
-**Note: We will release a bigger dataset on JUNE 20, 2020.**
+**Note: We will release a bigger official dataset on JUNE 20, 2020.**
 
 ### Other Useful Resources
 1. [Colab Notebook for developing deep learning application on free GPU](https://colab.research.google.com)
@@ -65,9 +67,6 @@ Can you see the smoke in the following images ?
 
 <img src="images/far_away_smoke_1.png" alt="far away smoke" width="400"/><img src="images/far_away_smoke_2.png" alt="far away smoke" width="400"/>
 
-We believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires. 
-
-Everything built during the hackathon will remain as open source with The MIT license. 
 
 Our [previous hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) was a success. Participants engaged in discussions shown in pics below.
 

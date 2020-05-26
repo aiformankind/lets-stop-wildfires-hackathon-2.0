@@ -131,6 +131,7 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 
 
 #### Mentors for Hackathon
+1. [Vladimir Iglovikov](https://www.linkedin.com/in/iglovikov/) Kaggle Grandmaster, Senior Computer Vision Engineer at Level5, Self-Driving Division, Lyft Inc.
 
 #### Collaborators
 [HPWREN](http://hpwren.ucsd.edu/)

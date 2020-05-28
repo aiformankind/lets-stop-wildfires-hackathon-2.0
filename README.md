@@ -72,6 +72,17 @@ Our [previous hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon)
 
 ![Participants in discussion in last hackathon](images/discuss1.jpg) ![Participants in discussion in last hackathon](images/discuss2.jpg)
 
+## Collaborators
+[HPWREN](http://hpwren.ucsd.edu/)
+<img src="images/hpwren_banner.png" align="left" style="float: left; margin: 3px 12px 3px 0px;" alt="HPWREN" width="400"/>
+
+The High Performance Wireless Research and Education Network (HPWREN), a University of California San Diego partnership project led by the San Diego Supercomputer Center and the Scripps Institution of Oceanography's Institute of Geophysics and Planetary Physics, supports Internet-data applications in the research, education, and public safety realms.
+
+
+## Mentors for Hackathon
+1. [Adam Kraft](https://www.linkedin.com/in/adam-kraft-7555b534/) Machine Learning Engineer from Google Brain
+2. [Jianming Zhang](https://www.linkedin.com/in/jianming-zhang-60762227/), Senior Research Scientist from Adobe Research
+3. [Vladimir Iglovikov](https://www.linkedin.com/in/iglovikov/) Kaggle Grandmaster, Senior Computer Vision Engineer at Level5, Self-Driving Division, Lyft Inc.
 
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
 
@@ -127,15 +138,6 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 1. [The MIT License](https://opensource.org/licenses/MIT)
 2. [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)
 
-
-
-#### Mentors for Hackathon
-1. [Adam Kraft](https://www.linkedin.com/in/adam-kraft-7555b534/) Machine Learning Engineer from Google Brain
-2. [Jianming Zhang](https://www.linkedin.com/in/jianming-zhang-60762227/), Senior Research Scientist from Adobe Research
-3. [Vladimir Iglovikov](https://www.linkedin.com/in/iglovikov/) Kaggle Grandmaster, Senior Computer Vision Engineer at Level5, Self-Driving Division, Lyft Inc.
-
-#### Collaborators
-[HPWREN](http://hpwren.ucsd.edu/)
 
 #### Sponsors
 Stay Tuned

@@ -31,7 +31,7 @@ Everything built during the hackathon will remain as open source with The MIT li
 ### GET STARTED 
 While waiting for the official release of annotated dataset, you can checkout our quick start repo for building a wildfire smoke detector. It comes with a docker image and sample dataset to get you started.
 
-1. [Wildfire Smoke Detector](https://github.com/aiformankind/wildfire-smoke-detection-camera)
+1. [Wildfire Smoke Detector Quickstart Repo](https://github.com/aiformankind/wildfire-smoke-detection-camera). Follow the steps to build a simple wildfire smoke detector.
 
 <img src="images/image2BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/><img src="images/image1BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/>
 

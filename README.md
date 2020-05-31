@@ -35,6 +35,8 @@ While waiting for the official release of annotated dataset, you can checkout ou
 
 <img src="images/image2BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/><img src="images/image1BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/>
 
+<img src="images/truePositive1.png" alt="detected smoke 1" width="400"/><img src="images/truePositive2.png" alt="detected smoke 2" width="400"/>
+
 ### DATASET
 In the above repo, you will find 744 bounding box annotated HPWREN wildfire smoke images.
 

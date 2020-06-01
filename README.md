@@ -22,20 +22,42 @@ Do you know there are many cameras installed around mountaintop in California. T
 
 - [AlertWildfire Cameras](http://www.alertwildfire.org/southeastbay/index.html?v=518dd6a)
 
-We believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires. 
+**We believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires.**
 
 Everything built during the hackathon will remain as open source with The MIT license. 
 
-**Can your wildfire smoke detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ?** 
+## Our Collaborators
+[HPWREN](http://hpwren.ucsd.edu/)
+<img src="images/hpwren_banner.png" align="left" style="float: left; margin: 3px 12px 3px 0px;" alt="HPWREN" width="400"/>
+
+The High Performance Wireless Research and Education Network (HPWREN), a University of California San Diego partnership project led by the San Diego Supercomputer Center and the Scripps Institution of Oceanography's Institute of Geophysics and Planetary Physics, supports Internet-data applications in the research, education, and public safety realms.
+
+<br/>
+
+## AI For Mankind's Wildfire Smoke Detector
+**Can your wildfire smoke detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ?** We need your help and expertise in building a better and improved wildfire smoke detector.
+
+AI For Mankind had annotated 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
+
+1. For 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.
+<img src="images/20200205_FIRE_hp-w-mobo-c_1580927851_+00780_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
+
+2. For 2020-03-06 fire captured by HPWREN camera mlo-n-mobo-c, our detector detected the smoke *3 minutes* after fire ignition.
+<img src="images/20200306_FIRE_mlo-n-mobo-c_1583516059_+00180_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
+
+3. For 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, our detector detected the smoke *16 minutes* after fire ignition.
+<img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
+
+In this hackathon, we provide our wildfire smoke detector repo with the same annotated images to get you started and challenge you all to build a better and improved model to beat our detector. 
 
 ### GET STARTED 
-While waiting for the official release of annotated dataset, you can checkout our quick start repo for building a wildfire smoke detector. It comes with a docker image and sample dataset to get you started.
+You can checkout our wildfire smoke detector repo below. It comes with a docker image and annotated HPWREN images to get you started.
 
 1. [Wildfire Smoke Detector Quickstart Repo](https://github.com/aiformankind/wildfire-smoke-detection-camera). Follow the steps to build a simple wildfire smoke detector.
 
-<img src="images/image2BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/><img src="images/image1BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/>
+<img src="images/image2BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/><img src="images/image1BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="500"/>
 
-<img src="images/truePositive1.png" alt="detected smoke 1" width="400"/><img src="images/truePositive2.png" alt="detected smoke 2" width="400"/>
+<img src="images/truePositive1.png" alt="detected smoke 1" width="400"/><img src="images/truePositive2.png" alt="detected smoke 2" width="500"/>
 
 ### DATASET
 In the above repo, you will find 744 bounding box annotated HPWREN wildfire smoke images.
@@ -73,12 +95,6 @@ Can you see the smoke in the following images ?
 Our [previous hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) was a success. Participants engaged in discussions shown in pics below.
 
 ![Participants in discussion in last hackathon](images/discuss1.jpg) ![Participants in discussion in last hackathon](images/discuss2.jpg)
-
-## Collaborators
-[HPWREN](http://hpwren.ucsd.edu/)
-<img src="images/hpwren_banner.png" align="left" style="float: left; margin: 3px 12px 3px 0px;" alt="HPWREN" width="400"/>
-
-The High Performance Wireless Research and Education Network (HPWREN), a University of California San Diego partnership project led by the San Diego Supercomputer Center and the Scripps Institution of Oceanography's Institute of Geophysics and Planetary Physics, supports Internet-data applications in the research, education, and public safety realms.
 
 
 ## Mentors for Hackathon

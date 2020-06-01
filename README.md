@@ -39,15 +39,15 @@ The High Performance Wireless Research and Education Network (HPWREN), a Univers
 
 AI For Mankind had annotated 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
 
-1. For 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.<img src="images/20200205_FIRE_hp-w-mobo-c_1580927851_+00780_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450" align="left" style="float: left; margin: 3px 12px 3px 0px;"/>
+1. For 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.<img src="images/20200205_FIRE_hp-w-mobo-c_1580927851_+00780_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
 
 <br/>
 
-2. For 2020-03-06 fire captured by HPWREN camera mlo-n-mobo-c, our detector detected the smoke *3 minutes* after fire ignition.<img src="images/20200306_FIRE_mlo-n-mobo-c_1583516059_+00180_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450" align="left" style="float: left; margin: 3px 12px 3px 0px;"/>
+2. For 2020-03-06 fire captured by HPWREN camera mlo-n-mobo-c, our detector detected the smoke *3 minutes* after fire ignition.<img src="images/20200306_FIRE_mlo-n-mobo-c_1583516059_+00180_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
 
 <br/>
 
-3. For 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, our detector detected the smoke *16 minutes* after fire ignition.<img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450" align="left" style="float: left; margin: 3px 12px 3px 0px;"/>
+3. For 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, our detector detected the smoke *16 minutes* after fire ignition.<img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
 
 <br/>
 

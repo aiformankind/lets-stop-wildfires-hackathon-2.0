@@ -37,17 +37,20 @@ The High Performance Wireless Research and Education Network (HPWREN), a Univers
 ## AI For Mankind's Wildfire Smoke Detector
 **Can your wildfire smoke detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ?** We need your help and expertise in building a better and improved wildfire smoke detector.
 
-AI For Mankind had annotated 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
+AI For Mankind had annotated 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See our wildfire smoke detector results below.
 
 1. 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, smoke detected *13 minutes* after fire ignition.
+<br/>
 <img src="images/20200205_FIRE_hp-w-mobo-c_1580927851_+00780_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
 <br clear="right"/>
 
 2. 2020-03-06 fire captured by HPWREN camera mlo-n-mobo-c, smoke detected *3 minutes* after fire ignition.
+<br/>
 <img src="images/20200306_FIRE_mlo-n-mobo-c_1583516059_+00180_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
 <br clear="right"/>
 
 3. 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, smoke detected *16 minutes* after fire ignition.
+<br/>
 <img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
 <br clear="right"/>
 

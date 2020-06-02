@@ -9,7 +9,7 @@
 
 **Lets Stop Wildfires Hackathon 2.0** is a reboot of the last successful [wildfires hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) organized by [AI For Mankind](https://aiformankind.org). 
 
-In the last Lets Stop Wildfires Hackathon which was launched in 2019, we focused on classification of smoke on the whole image or gridded image. In this hackathon, we want to formulate the problem as smoke detection and segmentation. We present the following challenges for our participants to solve. Special thanks to [HPWREN](http://hpwren.ucsd.edu/) to provide access to HPWREN camera images.
+In the last Lets Stop Wildfires Hackathon which was launched in 2019, we focused on classification of smoke on the whole image or gridded image. In this hackathon, we want to formulate the problem as smoke detection and segmentation. We present the following challenges for our participants to solve. Special thanks to [High Performance Wireless Research and Education Network (HPWREN)](http://hpwren.ucsd.edu/) to provide access to HPWREN camera images.
 
 1. Detect Wildfire Smoke using Bounding Boxes
 2. Detect Wildfire Smoke using Segmentation Masks
@@ -27,7 +27,7 @@ Do you know there are many cameras installed around mountaintop in California. T
 Everything built during the hackathon will remain as open source with The MIT license. 
 
 ## Our Collaborators
-[HPWREN](http://hpwren.ucsd.edu/)
+[High Performance Wireless Research and Education Network (HPWREN)](http://hpwren.ucsd.edu/)
 <img src="images/hpwren_banner.png" align="left" style="float: left; margin: 3px 12px 3px 0px;" alt="HPWREN" width="400"/>
 
 The High Performance Wireless Research and Education Network (HPWREN), a University of California San Diego partnership project led by the San Diego Supercomputer Center and the Scripps Institution of Oceanography's Institute of Geophysics and Planetary Physics, supports Internet-data applications in the research, education, and public safety realms.
@@ -37,7 +37,7 @@ The High Performance Wireless Research and Education Network (HPWREN), a Univers
 ## AI For Mankind's Wildfire Smoke Detector
 **Can your wildfire smoke detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ?** We need your help and expertise in building a better and improved wildfire smoke detector.
 
-AI For Mankind had annotated 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See our wildfire smoke detector results below.
+AI For Mankind had annotated 744 wildfire smoke [HPWREN](http://hpwren.ucsd.edu/) images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See our wildfire smoke detector results below.
 
 1. 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, smoke detected *13 minutes* after fire ignition.
 <br/>
@@ -59,7 +59,7 @@ In this hackathon, we provide our wildfire smoke detector repo with the same ann
 <br/>
 
 ### GET STARTED 
-You can checkout our wildfire smoke detector repo below. It comes with a docker image and annotated HPWREN images to get you started.
+You can checkout our wildfire smoke detector repo below. It comes with a docker image and annotated [HPWREN](http://hpwren.ucsd.edu/) images to get you started.
 
 1. [Wildfire Smoke Detector Quickstart Repo](https://github.com/aiformankind/wildfire-smoke-detection-camera). Follow the steps to build a simple wildfire smoke detector.
 
@@ -68,13 +68,11 @@ You can checkout our wildfire smoke detector repo below. It comes with a docker 
 <img src="images/truePositive1.png" alt="detected smoke 1" width="400"/><img src="images/truePositive2.png" alt="detected smoke 2" width="500"/>
 
 ### DATASET
-In the above repo, you will find 744 bounding box annotated HPWREN wildfire smoke images.
+In the above repo, you will find 744 bounding box annotated [HPWREN](http://hpwren.ucsd.edu/) wildfire smoke images.
 
-3292 Total Number of Images, 744 of them are annotated with bounding boxes.
-https://github.com/aiformankind/wildfire-smoke-detection-camera/tree/master/input/images
+3292 Total Number of Images, 744 of them are annotated with [bounding boxes.](https://github.com/aiformankind/wildfire-smoke-detection-camera/tree/master/input/images)
 
-PASCAL VOC Annotations
-https://github.com/aiformankind/wildfire-smoke-detection-camera/tree/master/input/annotations/xmls
+PASCAL VOC [Annotations](https://github.com/aiformankind/wildfire-smoke-detection-camera/tree/master/input/annotations/xmls)
 
 **Note: We will release a bigger official dataset on JUNE 20, 2020.**
 

@@ -37,7 +37,7 @@ The High Performance Wireless Research and Education Network (HPWREN), a Univers
 ## AI For Mankind's Wildfire Smoke Detector
 **Can your wildfire smoke detector beat the "AI For Mankind: SUPER DUPER WILDFIRE SMOKE DETECTOR" ?** We need your help and expertise in building a better and improved wildfire smoke detector.
 
-AI For Mankind had annotated 744 wildfire smoke [HPWREN](http://hpwren.ucsd.edu/) images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See our wildfire smoke detector results below.
+AI For Mankind had annotated 744 wildfire smoke [HPWREN](http://hpwren.ucsd.edu/) images in 2019 and built a wildfire smoke detector aka "The Super Duper" using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See our wildfire smoke detector results below.
 
 1. 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.
 
@@ -60,6 +60,17 @@ AI For Mankind had annotated 744 wildfire smoke [HPWREN](http://hpwren.ucsd.edu/
    <br/>
    <img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
    <br clear="right"/>
+   
+### Other True Positives
+We ran AI For Mankind's wildfire smoke detector aka "The Super Duper" against past HPWREN images of several fires, here are the promising results obtained.
+
+- 20191006: Detected smoke ~6 mins after fire ignition (HPWREN ml w mobo c) https://youtu.be/wt1sQyRjoCI
+- 20191006: Detected smoke ~3 mins after fire ignition (HPWREN pi s mobo c) https://youtu.be/e9T_8coM20M
+- 20191007: Detected smoke ~10 mins after fire ignition (HPWREN sm s mobo c) https://youtu.be/LqAxrY-Xa4w
+- 20200206: Detected smoke ~4 mins after fire ignition (HPWREN ml s mobo c) https://youtu.be/Y3tal1-nk1Y
+- 20200306: Detected smoke ~3 mins after fire ignition (HPWREN mlo n mobo c) https://youtu.be/X_QvjA1-Nb4
+- 20200205: Detected smoke ~13 mins after fire ignition (HPWREN hp w mobo c) https://youtu.be/CcbXdcMEQvs
+
 
 In this hackathon, we provide our wildfire smoke detector repo with the same annotated images to get you started and challenge you all to build a better and improved model to beat our detector. 
 

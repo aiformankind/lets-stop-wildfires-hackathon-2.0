@@ -82,6 +82,12 @@ You can checkout our wildfire smoke detector repo below. It comes with a docker 
 
 1. [Wildfire Smoke Detector Quickstart Repo](https://github.com/aiformankind/wildfire-smoke-detection-camera). Follow the steps to build a simple wildfire smoke detector.
 
+You can also checkout the following notebooks for smoke classification provided by us for the last [hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon/). These are built only for classification and not for object detection.
+
+1. [Smoke Classifier using Entire Image](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1A_WildfireSmokeImageClassifierForDemo.ipynb)
+
+2. [Smoke Classifier using Gridded Image](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb)
+
 <img src="images/image2BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/><img src="images/image1BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="500"/>
 
 <img src="images/truePositive1.png" alt="detected smoke 1" width="400"/><img src="images/truePositive2.png" alt="detected smoke 2" width="500"/>

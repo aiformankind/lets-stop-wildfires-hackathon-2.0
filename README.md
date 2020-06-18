@@ -95,6 +95,16 @@ PASCAL VOC [Annotations](https://github.com/aiformankind/wildfire-smoke-detectio
 
 **Note: We will release a bigger official dataset on JUNE 20, 2020.**
 
+## False Positive Rate
+We tested our model against different time periods eg. during sunrise, sunset, or foggy condition and shared our false positive rates below. Your submitted model will be evaluated against these conditions too.
+
+| False Positive Study |               |              |                        |                     |                                                                           |
+|----------------------|---------------|--------------|------------------------|---------------------|---------------------------------------------------------------------------|
+|                      | Model         | Total Images | Num of False Positives | False Positive Rate | Link to Dataset                                                           |
+| Sunrise              | SuperDuper-v1 | 181          | 2                      | 0.011       | https://www.dropbox.com/sh/71jdkv7tdtmmif8/AACdd51AH4BNX84bJSrGWrssa?dl=0 |
+| Fog                  | SuperDuper-v1 | 181          | 72                     | 0.398        | https://www.dropbox.com/sh/iw40v0yrkkimhha/AAANC4cxJR90cp8cfXF5kYHaa?dl=0 |
+
+
 ### Other Useful Resources
 1. [Colab Notebook for developing deep learning application on free GPU](https://colab.research.google.com)
 2. [Colab Notebook for Image Segmentation](https://keras.io/examples/vision/oxford_pets_image_segmentation/)

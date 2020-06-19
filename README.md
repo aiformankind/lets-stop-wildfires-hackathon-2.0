@@ -7,6 +7,11 @@
 
 ## REGISTER [NOW](https://forms.gle/wM7zRPFMUQptpygX9) 
 
+## Upcoming Events
+Hackathon Information Session on June 28 Sunday at 9 am. [Register](https://us02web.zoom.us/meeting/register/tZAucuqtpj0pHNzABC-ARJoj4OUvfSFBkgDI) to attend this zoom session. 
+
+<br/>
+
 **Lets Stop Wildfires Hackathon 2.0** is a reboot of the last successful [wildfires hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon) organized by [AI For Mankind](https://aiformankind.org). 
 
 In the last Lets Stop Wildfires Hackathon which was launched in 2019, we focused on classification of smoke on the whole image or gridded image. In this hackathon, we want to formulate the problem as smoke detection and segmentation. We present the following challenges for our participants to solve. Special thanks to [High Performance Wireless Research and Education Network (HPWREN)](http://hpwren.ucsd.edu/) to provide access to HPWREN camera images.

@@ -8,7 +8,10 @@
 ## REGISTER [NOW](https://forms.gle/wM7zRPFMUQptpygX9) 
 
 ## Upcoming Events
-Hackathon Information Session on June 28 Sunday at 9 am. [Register](https://us02web.zoom.us/meeting/register/tZAucuqtpj0pHNzABC-ARJoj4OUvfSFBkgDI) to attend this zoom session. 
+[Hackathon Information Session on Sunday, June 28 at 9 am Pacific Time. Register](https://us02web.zoom.us/meeting/register/tZAucuqtpj0pHNzABC-ARJoj4OUvfSFBkgDI) to attend this zoom session. 
+
+## Past Events
+[Lets Annotate Wildfire Smoke Images on Saturday, May 30 at 10 am Pacific Time](https://www.meetup.com/AI-for-Mankind/events/270718685/)
 
 <br/>
 
@@ -238,6 +241,3 @@ AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
 2. [SpotTune: Transfer Learning through Adaptive Fine-tuning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf)
 3. [Taskonomy: Disentangling Task Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)
 
-#### Upcoming Events
-
-[Lets Annotate Wildfire Smoke Images on Saturday, May 30 at 10 am Pacific Time](https://www.meetup.com/AI-for-Mankind/events/270718685/)

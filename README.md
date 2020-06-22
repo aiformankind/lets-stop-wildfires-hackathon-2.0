@@ -109,6 +109,18 @@ PASCAL VOC [Annotations](https://github.com/aiformankind/wildfire-smoke-detectio
 
 **Note: We will release a bigger official dataset on JUNE 20, 2020.**
 
+## Model Performance
+We had developed 3 models: SuperDuper-v1, SuperDuper-v2, and SuperDuper-edge using the same provided dataset above. One of them, SuperDuper-edge is optimized for edge device. The table shows the performance of our models.
+
+
+| Name            | AveragePrecison@0.5IOU/smoke |
+|-----------------|-----------------|
+| SuperDuper-v1   | 0.751           |
+| SuperDuper-v2   | 0.867           |
+| SuperDuper-edge | 0.682           |
+
+We hope one of you will come up with a better detection model.
+
 ## False Positive Rate
 We tested our model against different time periods eg. during sunrise, sunset, or foggy condition and shared our false positive rates below. Your submitted model will be evaluated against these conditions too.
 

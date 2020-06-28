@@ -107,8 +107,6 @@ In the above repo, you will find 744 bounding box annotated [HPWREN](http://hpwr
 
 PASCAL VOC [Annotations](https://github.com/aiformankind/wildfire-smoke-detection-camera/tree/master/input/annotations/xmls)
 
-**Note: We will release a bigger official dataset on JUNE 20, 2020.**
-
 ## Model Performance
 We had developed 3 models: SuperDuper-v1, SuperDuper-v2, and SuperDuper-edge using the same provided dataset above. One of them, SuperDuper-edge is optimized for edge device. The table shows the performance of our models.
 

@@ -164,6 +164,12 @@ Our [previous hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon)
 
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
 
+## Submission
+Submission due date for this hackathon is Aug 23, 2020 at 11:59 pm Pacific Time. For submission, please provide your hackathon Github repo describing your model and how to reproduce the model including the model config file you use to train your model. Most importantly, please include the link to your model (frozen inference graph in protocol buffer format). Dropbox/Google Drive link works the best for large models. 
+We will load your model and benchmark against our best models using unseen test images.
+
+See instruction of the provided quick start repo https://github.com/aiformankind/wildfire-smoke-detection-camera on how to generate a frozen inference graph in protocol buffer format.
+
 ## Contact Us
 If you have any questions, please feel free to email us at [ai.for.mankind@gmail.com](ai.for.mankind@gmail.com)
 

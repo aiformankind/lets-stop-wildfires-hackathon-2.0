@@ -8,10 +8,11 @@
 ## REGISTER [NOW](https://forms.gle/wM7zRPFMUQptpygX9) 
 
 ## Upcoming Events
-[Hackathon Information Session on Sunday, June 28 at 9 am Pacific Time. Register](https://us02web.zoom.us/meeting/register/tZAucuqtpj0pHNzABC-ARJoj4OUvfSFBkgDI) to attend this zoom session. 
+Stay tuned
 
 ## Past Events
-[Lets Annotate Wildfire Smoke Images on Saturday, May 30 at 10 am Pacific Time](https://www.meetup.com/AI-for-Mankind/events/270718685/)
+- [Hackathon Information Session on Sunday, June 28 at 9 am Pacific Time. Register](https://us02web.zoom.us/meeting/register/tZAucuqtpj0pHNzABC-ARJoj4OUvfSFBkgDI) to attend this zoom session. 
+- [Lets Annotate Wildfire Smoke Images on Saturday, May 30 at 10 am Pacific Time](https://www.meetup.com/AI-for-Mankind/events/270718685/)
 
 <br/>
 
